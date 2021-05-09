@@ -1,1 +1,3 @@
-Bu yazılım The Code'a aittir.
+DEMO 
+
+https://hastebin-clone.glitch.me/

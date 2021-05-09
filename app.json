@@ -1,0 +1,15 @@
+{
+	"name": "The Code Hastebin",
+	"description": "The Code Hastebin kaç kere yazıcam aq",
+	"repository": "repo yok mlsf :(",
+	"logo": "https://i.hizliresim.com/K7MVcz.jpg",
+	"keywords": [
+		"node",
+		"paste",
+		"pastebin",
+		"haste",
+		"hastebin",
+		"code",
+		"syntax highlighting"
+	]
+}
